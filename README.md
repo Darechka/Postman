@@ -1,7 +1,7 @@
 # Postman
 This repository contains the tasks that I completed during the Software Testing course by Vadim Ksendzov.
 
-## HW_1
+## Homework_1
 The task was to create requests with Postman and send them to the following endpoints:
 
 __Protocol:__ http
