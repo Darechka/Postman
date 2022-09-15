@@ -28,3 +28,6 @@ __Port:__ 5005
 3. __Method:__ GET __EndPoint:__ /object_info_3
 4. __Method:__ GET __EndPoint:__ /object_info_4
 5. __Method:__ POST __EndPoint:__ /user_info_2
+
+
+You can find the detailed task for each request in the _README.md_ file of the **Homework_2** directory
